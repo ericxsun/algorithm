@@ -1,2 +1,0 @@
-# algorithm
-impl algorithm
