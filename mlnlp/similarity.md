@@ -21,7 +21,7 @@ word / sentence / doc similarity
     + weighted jaccard
         句子 $A$ 和 $B$
         $$
-        A = \{w_{i_k} | i \in [1,n], i_k in [1, i_K]\}
+        A = \{w_{i_k} | i \in [1,n], i_k \in [1, i_K]\}
         $$
 
         $$
